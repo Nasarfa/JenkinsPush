@@ -4,6 +4,7 @@ public class JenkinsPush {
   // TODO Auto-generated method stub
 System.out.println("Hi Nasar");
     System.out.println("Jenkins Installed Successfully");
+    System.out.println("welcome to Jenkins World");
     System.out.println("Jenkins integrated to the github successfully");
  }
 
