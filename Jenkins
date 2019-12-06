@@ -1,11 +1,10 @@
 public class JenkinsPush {
 
  public static void main(String[] args) {
-  // TODO Auto-generated method stubbhh hhb
+  // TODO Auto-generated method stubbhh hhbm
 System.out.println("Hi Nasar");
     System.out.println("Jenkins Installed Successfully");
     System.out.println("welcome to Jenkins World");
     System.out.println("Jenkins integrated to the github successfully");
          }
-
 }
